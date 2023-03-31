@@ -1,4 +1,4 @@
-## desserts
+## UI Templates / Desserts Page
 
 The design and coding of the "Desserts" page in the UI design was done. Firebase database is used.
 
